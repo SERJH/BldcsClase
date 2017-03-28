@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490575499 source:c:\users\serjh\desktop\programacion\utn\tecnicatura en programacion\programacion 1 - lab 1\ejercicios\ej-25\main.c
+	<stdio.h>
+	<stdlib.h>
+
