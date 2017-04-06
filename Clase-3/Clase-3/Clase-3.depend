@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1490638650 source:c:\users\serjh\desktop\programacion\utn\tecnicatura en programacion\programacion 1 - lab 1\clase 3\clase-3\main.c
-	<stdio.h>
-	<stdlib.h>
-	<ctype.h>
-	<conio.h>
-
