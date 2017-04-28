@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1493419328 source:c:\users\serjh\desktop\programacion\utn\tecnicatura en programacion\programacion 1 - lab 1\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1493418858 c:\users\serjh\desktop\programacion\utn\tecnicatura en programacion\programacion 1 - lab 1\tp_2_cascara\funciones.h
+
+1493419129 source:c:\users\serjh\desktop\programacion\utn\tecnicatura en programacion\programacion 1 - lab 1\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1493419328 source:c:\users\serjh\desktop\programacion\utn\tecnicatura en programacion\programacion 1 - lab 1\tp_2_santiagomoran\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1493418858 c:\users\serjh\desktop\programacion\utn\tecnicatura en programacion\programacion 1 - lab 1\tp_2_santiagomoran\funciones.h
+
+1493419374 source:c:\users\serjh\desktop\programacion\utn\tecnicatura en programacion\programacion 1 - lab 1\tp_2_santiagomoran\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1493420852 source:c:\users\serjh\desktop\serjh\tp_2_santiagomoran\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1493420827 c:\users\serjh\desktop\serjh\tp_2_santiagomoran\funciones.h
+
+1493420681 source:c:\users\serjh\desktop\serjh\tp_2_santiagomoran\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
