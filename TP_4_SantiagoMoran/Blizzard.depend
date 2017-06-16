@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1497646454 source:c:\users\serjh\desktop\blizzard\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497654698 c:\users\serjh\desktop\blizzard\arraylist.h
+
+1497654536 source:c:\users\serjh\desktop\blizzard\funciones.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1497654729 c:\users\serjh\desktop\blizzard\funciones.h
+	<stdlib.h>
+	<stdio.h>
+	"ArrayList.h"
+
+1497654826 source:c:\users\serjh\desktop\blizzard\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
